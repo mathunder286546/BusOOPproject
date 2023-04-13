@@ -10,7 +10,14 @@ int main() {
 		// Bus 4: Scania, 4567PM7, $ 45000, 30	- 
 		// Bus 5: Neoplan, 5678PM7, $ 113000, 87	- 
 		
-	
+
+	Bus buses[5];
+	buses[0];
+	buses[1];
+	buses[2];
+	buses[3];
+	buses[4];
+
 
 	return 0;
 }
