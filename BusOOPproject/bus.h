@@ -24,5 +24,12 @@ public:
 		pasengers = pass;
 	}
 
+	string convert() {
+		string msg = "Bus: ";
+		msg+="brand = " + brand
+
+
+
+	}
 
 };
